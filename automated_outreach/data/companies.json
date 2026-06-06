@@ -1,0 +1,52 @@
+[
+  {
+    "domain": "google.com",
+    "company": "Google",
+    "industry": "Technology"
+  },
+  {
+    "domain": "microsoft.com",
+    "company": "Microsoft",
+    "industry": "Technology"
+  },
+  {
+    "domain": "amazon.com",
+    "company": "Amazon",
+    "industry": "Technology"
+  },
+  {
+    "domain": "salesforce.com",
+    "company": "Salesforce",
+    "industry": "Technology"
+  },
+  {
+    "domain": "oracle.com",
+    "company": "Oracle",
+    "industry": "Technology"
+  },
+  {
+    "domain": "spotify.com",
+    "company": "Spotify",
+    "industry": "Media"
+  },
+  {
+    "domain": "netflix.com",
+    "company": "Netflix",
+    "industry": "Media"
+  },
+  {
+    "domain": "adobe.com",
+    "company": "Adobe",
+    "industry": "Software"
+  },
+  {
+    "domain": "hubspot.com",
+    "company": "HubSpot",
+    "industry": "Marketing"
+  },
+  {
+    "domain": "shopify.com",
+    "company": "Shopify",
+    "industry": "E-Commerce"
+  }
+]
